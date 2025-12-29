@@ -1,2 +1,2 @@
 ## 🌐 Live Website
-🔗 https://free3dmp-com-inm5.vercel.app/
+🔗 https://free3dmp.vercel.app/
